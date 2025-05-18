@@ -58,3 +58,6 @@ def analyze_and_plot_hourly_trends(data, columns, timestamp_col='Timestamp'):
     plt.ylabel('Values')
     plt.legend(title='Variable')
     plt.show()
+    
+
+
